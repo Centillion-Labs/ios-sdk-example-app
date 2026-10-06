@@ -1,0 +1,15 @@
+{
+  "originHash" : "8e1ef0e996225625cdef1f9f45f11baadde7df83319a41961bd9c8d713447be4",
+  "pins" : [
+    {
+      "identity" : "centillion-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Centillion-Labs/centillion-ios-sdk.git",
+      "state" : {
+        "revision" : "cb9dc1593c30325d291907481d2393028d40f43a",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
